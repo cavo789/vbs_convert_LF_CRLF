@@ -1,6 +1,6 @@
-![Banner](images/banner.jpg)
-
 # vbs_convert_LF_CRLF
+
+![Banner](./banner.svg)
 
 > Convert from LF to CRLF and vice-versa
 
